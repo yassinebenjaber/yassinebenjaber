@@ -6,11 +6,11 @@ Welcome! I am a final year cybersecurity engineering student focused on **networ
 ---
 
 ### 👨‍💻 **Cybersecurity Projects:**
-- [Threat Hunting and Intelligence Ecosystem for Banking Organizations]()
-- [Cloud Security Home Lab]()
-- [SIEM Integration for Incident Response]()
-- [Encryption and Secure Communication Tools]()
-- [Network Traffic Monitoring and Anomaly Detection]()
+- [Active Directory Home Lab](https://github.com/yassinebenjaber/ac-homelab)
+- [SOC/SOAR Home Lab](https://github.com/yassinebenjaber/SOC-OAR-HOMELAB)
+- [File Integrity Management Home Lab](https://github.com/yassinebenjaber/file-int-mgmt)
+- [Encryption/Decryption Software (Python)](https://github.com/yassinebenjaber/ENC-DYC1)
+- [Network Traffic Monitoring and Anomaly Detection](https://github.com/yassinebenjaber/Splunk-home-lab-1)
 
 ---
 
