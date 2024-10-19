@@ -47,4 +47,3 @@ Welcome! I am a final year cybersecurity engineering student focused on **networ
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-ben-jaber/)
 [![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BuiltSecurity)
-[![Blog](https://img.shields.io/badge/blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.builtsecurityblog.com/)
