@@ -1,7 +1,7 @@
 # Hi, I'm Yassine!  
 **Cybersecurity Engineering Student | Cloud Enthusiast**
 
-Welcome! I am a final year cybersecurity engineering student focused on **network security**, **cloud security** and **threat intelligence**. I enjoy building, discovering and implementing solutions that enhance security for organizations and sharing knowledge through my blog. Here’s a bit about my work and achievements:
+Welcome! I am a final year cybersecurity engineering student focused on **network security**, **cloud security** and **threat intelligence**. I enjoy building, discovering and implementing solutions that enhance security for organizations and sharing knowledge with my peers. Here’s a bit about my work and achievements:
 
 ---
 
