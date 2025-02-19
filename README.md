@@ -30,14 +30,7 @@ Welcome! I am a final year cybersecurity engineering student focused on **networ
 - Certified Cloud Security Professional (CCSP)
 - Certified SOC Analyst (CSA)
 
----
 
-### 📺 **Some of My Popular Blog Articles:**
-- [How to Build a Cybersecurity Career from Scratch](https://www.builtsecurityblog.com/2024/08/the-perfect-cybersecurity-resume-6-step.html)
-- [The Future of Cloud Security in 2024: Key Trends]()
-- [Effective Threat Intelligence Strategies for Financial Institutions]()
-- [Why Network Security is Essential in Digital Banking]()
-- [A Beginner’s Guide to Incident Response Tools]()
 
 ---
 
