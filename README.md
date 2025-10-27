@@ -23,14 +23,6 @@ Here’s a bit about my work and achievements:
 - [![Certified Cloud Practitioner (AWS)](https://via.placeholder.com/150x30/FFA500/FFFFFF?text=Certified+Cloud+Practitioner+(AWS))](https://www.credly.com/badges/6cdb2c5c-245f-4b5d-834d-74acd83bb8d6/linked_in_profile)
 - [![Linux Bash Shell Scripting (Udemy)](https://via.placeholder.com/150x30/FFFFFF/000000?text=Linux+Bash+Shell+Scripting+(Udemy))](https://www.udemy.com/certificate/UC-2177293d-1125-4bc6-ac4b-0b8b98587300/)
 
----
-
-### 🎯 **Certification Goals:**
-- Certified Network Security Associate
-- Certified Ethical Hacker (CEH)
-- Certified Cloud Security Professional (CCSP)
-- Certified SOC Analyst (CSA)
-
 
 
 ---
